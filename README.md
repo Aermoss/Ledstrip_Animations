@@ -1,6 +1,6 @@
 # Ledstrip_Animations
 
-Led Strip Animations For Arduino With C++
+Led Strip Animations For Arduino Made With C++
 
 ---
 
