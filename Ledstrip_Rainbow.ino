@@ -18,7 +18,7 @@ void setup() {
 
 void loop () {
     uint8_t thisSpeed = 20;
-    uint8_t deltaHue= 8;
+    uint8_t deltaHue = 8;
     uint8_t thisHue = beat8(thisSpeed, 255);
     fill_rainbow(leds, NUM_LEDS, thisHue, deltaHue);
     FastLED.show();
